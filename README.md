@@ -2,7 +2,7 @@
 
 # SiroccoSQL
 
-A distributed database system built with Go, featuring a SQL-like query engine, a routing switch layer, a cluster coordinator, and worker nodes backed by MySQL.
+A distributed database system built with Go, featuring a SQL-like query engine, a routing switch layer, a cluster coordinator, and worker nodes backed by MySQL..
 
 ---
 
